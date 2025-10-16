@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mrnexum\\Eloquent\\": "src/"
+            "MrNexum\\Eloquent\\": "src/"
         }
     },
     "authors": [
